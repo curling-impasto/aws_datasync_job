@@ -15,4 +15,4 @@ This module creates everything needed to securely and efficiently copy or synchr
 
 ## Architecture Diagram
 
-You can view the architecture diagram here: [assets/aws_datasync.pdf](assets/aws_datasync.pdf)
+![DataSync Architecture](./assets/aws_datsync.png)
